@@ -1,0 +1,14 @@
+Program list:- 
+
+1. Hello World
+2. Display contents of variable
+3. Precedence of operators
+4. Increment operator(pre and post)
+5. eg. on char literal
+6,7. eg. on boolean literal
+8. eg. on String literal
+9. eg. on int literal
+10. eg. on double literal
+11. explicit type conversion
+12,13. Promotion of type in expressions
+
