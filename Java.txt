@@ -1,14 +1,22 @@
 Program list:- 
 
-1. Hello World
-2. Display contents of variable
-3. Precedence of operators
-4. Increment operator(pre and post)
-5. eg. on char literal
-6,7. eg. on boolean literal
-8. eg. on String literal
-9. eg. on int literal
-10. eg. on double literal
-11. explicit type conversion
-12,13. Promotion of type in expressions
-
+1: Hello World
+2: Display contents of variable
+3: Precedence of operators
+4: Increment operator(pre and post)
+5: eg: on char literal
+6,7: eg: on boolean literal
+8: eg: on String literal
+9: eg: on int literal
+10: eg: on double literal
+11: explicit type conversion
+12,13: Promotion of type in expressions
+14,15: Scope of vars
+16: Self initialised array
+17: Addition of 2*2 matrix
+18: Jagged array
+19: CMD arguments
+20: Use of Double:parseDouble
+21,22: Use of Character.charAt() and other Character methods
+23,24,25: Functions and 3 types of calls
+26: Scanner class
