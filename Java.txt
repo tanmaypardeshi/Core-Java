@@ -31,3 +31,10 @@ Program list:-
 36,37: Method Overloading
 38: Constructor overloading
 39: Variable lenth arguments
+40,41: Inheritance
+42: "super" keyword
+43:	method overriding and "super" keyword
+44:	method overloaing in inheritance
+45:	call by Value
+46:	call by Reference
+47:	Dynamic method allocation
