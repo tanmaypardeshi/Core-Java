@@ -1,0 +1,6 @@
+This is just a test.
+Please use this file to test i/o programs.
+It also contains spaces/tabs/vowels and all you need for the test.
+This is just a test.
+Please use this file to test i/o programs.
+It also contains spaces/tabs/vowels and all you need for the test.
