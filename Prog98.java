@@ -39,6 +39,14 @@ class Prog98 extends Frame implements ActionListener
 		textno1.addActionListener(this);
 		textno2.addActionListener(this);
 		
+		addWindowListener(new WindowAdapter()
+		{
+			public void windowClosing(WindowEvent we)
+			{
+				System.exit(0);
+			}
+		});
+		
 		setVisible(true);
 	}
 	
