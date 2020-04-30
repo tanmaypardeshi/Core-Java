@@ -30,14 +30,14 @@
 
 | Program Name                     | Description                          |
 | :-----------------------------:  | :--------------------------------:   |
-|[Prog1.java](Programs/Prog1.java)  | A simple hello world in Java|
-|[Prog2.java](Programs/Prog2.java)  | Display contents of variable|
-|[Prog3.java](Programs/Prog3.java)  | Precedence of operators|
-|[Prog4.java](Programs/Prog4.java)  | Increment operator(pre and post)|
-|[Prog5.java](Programs/Prog5.java)  | An example on character literal|
+|[Prog1.java](Programs/Prog1.java)  |A simple hello world in Java|
+|[Prog2.java](Programs/Prog2.java)  |Display contents of variable|
+|[Prog3.java](Programs/Prog3.java)  |Precedence of operators|
+|[Prog4.java](Programs/Prog4.java)  |Increment operator(pre and post)|
+|[Prog5.java](Programs/Prog5.java)  |An example on character literal|
 |[Prog6.java](Programs/Prog6.java)  |An example on boolean literal|
 |[Prog7.java](Programs/Prog7.java)  |An example on boolean literal|
-|[Prog8.java](Programs/Prog8.java)  | An example on String literal|
+|[Prog8.java](Programs/Prog8.java)  |An example on String literal|
 |[Prog9.java](Programs/Prog9.java)  |An example on int literal|
 |[Prog10.java](Programs/Prog10.java)|An example on double literal|
 |[Prog11.java](Programs/Prog11.java)| Explicit type conversion|
