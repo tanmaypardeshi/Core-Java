@@ -30,7 +30,7 @@
 
 ## Table of Contents
 
-<p align="center">
+
 | Program Name                     | Description                          |
 | :-----------------------------:  | :--------------------------------:   |
 |[Prog1.java](Programs/Prog1.java)  | A simple hello world in Java|
@@ -132,4 +132,3 @@
 |[Prog97.java](Programs/Prog97.java)|
 |[Prog98.java](Programs/Prog98.java)|
 |[Prog99.java](Programs/Prog99.java)|
-</p>
