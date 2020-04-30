@@ -27,7 +27,7 @@
 
 
 ## Table of Contents
-
+<center>
 | Program Name                     | Description                          |
 | :-----------------------------:  | :--------------------------------:   |
 |[Prog1.java](Programs/Prog1.java)  | A simple hello world in Java|
@@ -131,3 +131,4 @@
 |[Prog99.java](Programs/Prog99.java)|Frame(5): Example of menu driven program|
 |[Child_Frame.java](Programs/Child_Frame.java)|Frame(6): Example of Child Frame|
 |[Parent_Frame.java](Programs/Parent_Frame.java)|Frame(7): Example of Parent Frame|
+</center>
