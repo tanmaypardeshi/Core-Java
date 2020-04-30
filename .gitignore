@@ -1,5 +1,6 @@
 /*.class
-/parth/*.class
+Programs/*.class
+Programs/parth/*.class
 .idea
 out
 

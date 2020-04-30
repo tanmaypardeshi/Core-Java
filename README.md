@@ -25,11 +25,8 @@
 * #### Applets in Java
 * #### Frames in Java
 
-### To compile use: <i>javac progx.java</i>
-### To execute use: <i>java classname</i>
 
 ## Table of Contents
-
 
 | Program Name                     | Description                          |
 | :-----------------------------:  | :--------------------------------:   |
@@ -97,38 +94,40 @@
 |[Prog62.java](Programs/Prog62.java)|Multiple catch block exception|
 |[Prog63.java](Programs/Prog63.java)|Nested try block|
 |[Prog64.java](Programs/Prog64.java)|User defined exceptions|
-|[Prog65.java](Programs/Prog65.java)||
-|[Prog66.java](Programs/Prog66.java)||
-|[Prog67.java](Programs/Prog67.java)||
-|[Prog68.java](Programs/Prog68.java)||
-|[Prog69.java](Programs/Prog69.java)||
-|[Prog70.java](Programs/Prog70.java)||
-|[Prog71.java](Programs/Prog71.java)||
-|[Prog72.java](Programs/Prog72.java)||
-|[Prog73.java](Programs/Prog73.java)||
-|[Prog74.java](Programs/Prog74.java)||
-|[Prog75.java](Programs/Prog75.java)||
-|[Prog76.java](Programs/Prog76.java)||
-|[Prog77.java](Programs/Prog77.java)||
-|[Prog78.java](Programs/Prog78.java)||
-|[Prog79.java](Programs/Prog79.java)||
-|[Prog80.java](Programs/Prog80.java)||
-|[Prog81.java](Programs/Prog81.java)||
-|[Prog82.java](Programs/Prog82.java)||
-|[Prog83.java](Programs/Prog83.java)||
-|[Prog84.java](Programs/Prog84.java)||
-|[Prog85.java](Programs/Prog85.java)||
-|[Prog86.java](Programs/Prog86.java)||
-|[Prog87.java](Programs/Prog87.java)||
-|[Prog88.java](Programs/Prog88.java)||
-|[Prog89.java](Programs/Prog89.java)||
-|[Prog90.java](Programs/Prog90.java)||
-|[Prog91.java](Programs/Prog91.java)||
-|[Prog92.java](Programs/Prog92.java)||
-|[Prog93.java](Programs/Prog93.java)||
-|[Prog94.java](Programs/Prog94.java)||
-|[Prog95.java](Programs/Prog95.java)||
-|[Prog96.java](Programs/Prog96.java)||
-|[Prog97.java](Programs/Prog97.java)||
-|[Prog98.java](Programs/Prog98.java)||
-|[Prog99.java](Programs/Prog99.java)||
+|[Prog65.java](Programs/Prog65.java)|User defined exception example|
+|[Prog66.java](Programs/Prog66.java)|Packages example(1)|
+|[Prog67.java](Programs/Prog67.java)|Packages example(2)|
+|[Prog68.java](Programs/Prog68.java)|String class constructor(1)|
+|[Prog69.java](Programs/Prog69.java)|String class constructor(2)|
+|[Prog70.java](Programs/Prog70.java)|String class properties|
+|[Prog71.java](Programs/Prog71.java)|String class cannot modified|
+|[Prog72.java](Programs/Prog72.java)|Sort an array of Strings|
+|[Prog73.java](Programs/Prog73.java)|split() in String|
+|[Prog74.java](Programs/Prog74.java)|substring() in String|
+|[Prog75.java](Programs/Prog75.java)|indexOf() in String|
+|[Prog76.java](Programs/Prog76.java)|Validation of emailid(1)|
+|[Prog77.java](Programs/Prog77.java)|Validation of emailid(2)|
+|[Prog78.java](Programs/Prog78.java)|StringBuffer class|
+|[Prog79.java](Programs/Prog79.java)|Methods of StringBuffer class|
+|[Prog80.java](Programs/Prog80.java)|Wrapper class|
+|[Prog81.java](Programs/Prog81.java)|Math class|
+|[Prog82.java](Programs/Prog82.java)|I/O in Java(1)|
+|[Prog83.java](Programs/Prog83.java)|I/O in Java(2)|
+|[Prog84.java](Programs/Prog84.java)|I/O in Java(3)|
+|[Prog85.java](Programs/Prog85.java)|File Handling in Java(1)|
+|[Prog86.java](Programs/Prog86.java)|File Handling in Java(2)|
+|[Prog87.java](Programs/Prog87.java)|File Handling in Java(3)|
+|[Prog88.java](Programs/Prog88.java)|Applet(1): Example of simple Applet|
+|[Prog89.java](Programs/Prog89.java)|Applet(2): Example of Date|
+|[Prog90.java](Programs/Prog90.java)|Applet(3): Example of Buttons|
+|[Prog91.java](Programs/Prog91.java)|Applet(4): Similar to Prog90.java|
+|[Prog92.java](Programs/Prog92.java)|Applet(5): Example of Checkbox|
+|[Prog93.java](Programs/Prog93.java)|Applet(6): Example of Radiobutton(2)|
+|[Prog94.java](Programs/Prog94.java)|Applet(7): Example of Scrollbar|
+|[Prog95.java](Programs/Prog95.java)|Frame(1): Example of Simple Frame|
+|[Prog96.java](Programs/Prog96.java)|Frame(2): Example of Adapter class|
+|[Prog97.java](Programs/Prog97.java)|Frame(3): Example of Anonymous Inner class|
+|[Prog98.java](Programs/Prog98.java)|Frame(4): Example of accept user input and display result|
+|[Prog99.java](Programs/Prog99.java)|Frame(5): Example of menu driven program|
+|[Child_Frame.java](Programs/Child_Frame.java)|Frame(6): Example of Child Frame|
+|[Parent_Frame.java](Programs/Parent_Frame.java)|Frame(7): Example of Parent Frame|
