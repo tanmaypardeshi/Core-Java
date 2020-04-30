@@ -1,6 +1,6 @@
 //to access a class kept in a package
 
-import parth.*;
+import Programs.test.*;
 
 class Prog66
 {

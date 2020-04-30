@@ -1,6 +1,6 @@
 //to create records of customers for a banking application
 
-import parth.Customer;
+import Programs.test.*;
 
 class Prog67
 {

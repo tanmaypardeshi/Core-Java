@@ -1,7 +1,7 @@
 /*an example of a non executable class with a method to return the absolute 
 value of any given int no */
 
-package parth;
+package Programs.test;
 
 /*all classes should be declared public otherwise will not be 
 accessible to classes outside this package*/

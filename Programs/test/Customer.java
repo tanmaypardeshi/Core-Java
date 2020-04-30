@@ -2,7 +2,7 @@
 method to display the records of customers with negative balance in their 
 account*/
 
-package parth;
+package Programs.test;
 
 public class Customer
 {
