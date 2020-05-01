@@ -25,6 +25,7 @@
 * **Applets in Java**
 * **Frames in Java**
 
+<hr>
 
 ## Table of Contents
 
