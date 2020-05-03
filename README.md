@@ -30,7 +30,7 @@
 ## Table of Contents
 
 | Program Name                     | Description                          |
-| :-----------------------------:  | :--------------------------------:   |
+| :-----------------------------:  | :--------------------------------    |
 |[Prog1.java](Programs/Prog1.java)  |A simple hello world in Java|
 |[Prog2.java](Programs/Prog2.java)  |Display contents of variable|
 |[Prog3.java](Programs/Prog3.java)  |Precedence of operators|
