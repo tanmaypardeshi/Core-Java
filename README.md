@@ -1,4 +1,4 @@
-# Java
+# Core Java
 
 ## Various Examples of Core Java Programs:
 
